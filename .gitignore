@@ -5,6 +5,8 @@ __pycache__/
 data/
 
 # files
+__init__.py
+.gitignore
 
 # others
 *.DS_Store
