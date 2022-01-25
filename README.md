@@ -10,7 +10,7 @@ Simple python project with: Docker SQLite3 FastAPI SQLAlchemy
 <code>docker-compose up --build</code>
 
 # Как использовать
-Обращаться к локальному хосту на порте (по умолчанию) :5001<br>
+Обращаться к локальному хосту на порте (по умолчанию :5001)<br>
 <code> http://localhost:5001/<эндпоинт>/ </code>
 <br>Например: http://localhost:5001/show/ - покажет всю информацию в таблицах БД<br>
 Отправлять запросы можно, например, через Postman или через строку в браузере
